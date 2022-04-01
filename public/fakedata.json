@@ -1,0 +1,161 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+   
+      "name": " Adidas Copa 20.1 FG",
+     
+      "seller": "addidas",
+      "price": 420,
+
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "./img/img-1.jpg",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "category": "Men's Sneaker",
+      "name": "Adidas Copa 20.1 FG",
+      "seller": "addidas",
+      "price": 196,
+      "stock": 19,
+      "ratings": 5,
+      "ratingsCount": 4355,
+      "img": "./img/img-2.jpg",
+      "shipping": 14,
+      "quantity": 0
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "category": "Men's Sneaker",
+      "name": "SUPERNOVA SHOES",
+      "seller": "NIKE",
+      "price": 245,
+      "stock": 20,
+      "ratings": 4,
+      "ratingsCount": 3972,
+      "img": "./img/img-3.jpg",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "category": "Men's Sneaker",
+      "name": "LITE RACER ADAPT 3.0 SHOES",
+      "seller": "Puma",
+      "price": 229,
+      "stock": 10,
+      "ratings": 5,
+      "ratingsCount": 1764,
+      "img": "./img/img-4.jpg",
+      "shipping": 32,
+      "quantity": 0
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "category": "Men's Sneaker",
+      "name": "4DFWD SHOES",
+      "seller": "Puma",
+      "price": 287,
+      "stock": 11,
+      "ratings": 4,
+      "ratingsCount": 799,
+      "img": "./img/img-5.jpg",
+      "shipping": 49,
+      "quantity": 0
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "category": "Men's Sneaker",
+      "name": "KAPTIR 2.0 SHOES",
+      "seller": "Nike",
+      "price": 138,
+      "stock": 19,
+      "ratings": 3,
+      "ratingsCount": 4372,
+      "img": "./img/img-6.jpg",
+      "shipping": 19,
+      "quantity": 0
+    },
+    {
+      "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+      "category": "Men's Sneaker",
+      "name": "4DFWD PULSE SHOES",
+      "seller": "Addidas",
+      "price": 226,
+      "stock": 1,
+      "ratings": 4,
+      "ratingsCount": 2870,
+      "img": "./img/img-7.jpg",
+      "shipping": 15,
+      "quantity": 0
+    },
+    {
+      "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+      "category": "Men's Sneaker",
+      "name": "ZX 1K BOOST SHOES",
+      "seller": "Puma",
+      "price": 319,
+      "stock": 7,
+      "ratings": 4,
+      "ratingsCount": 1360,
+      "img": "./img/img-8.jpg",
+      "shipping": 50,
+      "quantity": 0
+    },
+    {
+      "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+      "category": "Men's Sneaker",
+      "name": "NMD_R1 V2 SHOES",
+      "seller": "Nike",
+      "price": 260,
+      "stock": 4,
+      "ratings": 5,
+      "ratingsCount": 1976,
+      "img": "./img/img-9.jpg",
+      "shipping": 46,
+      "quantity": 0
+    },
+    {
+      "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+      "category": "Men's Sneaker",
+      "name": "NMD_R1 PRIMEBLUE SHOES",
+      "seller": "Nike",
+      "price": 437,
+      "stock": 1,
+      "ratings": 4,
+      "ratingsCount": 565,
+      "img": "./img/img-10.jpg",
+      "shipping": 36,
+      "quantity": 0
+    },
+    {
+      "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+      "category": "Men's Pants",
+      "name": "Adidas Copa 20.1 FG",
+      "seller": "Addidas",
+      "price": 146,
+      "stock": 15,
+      "ratings": 5,
+      "ratingsCount": 3702,
+      "img": "./img/img-11.jpg",
+      "shipping": 29,
+      "quantity": 0
+    },
+    {
+      "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
+      "category": "Men's Pants",
+      "name": "Adidas Copa 20.1 FG",
+      "seller": "nike",
+      "price": 109,
+      "stock": 6,
+      "ratings": 5,
+      "ratingsCount": 1688,
+      "img": "./img/img-12.jpg",
+      "shipping": 48,
+      "quantity": 0
+    }
+   
+    
+]
